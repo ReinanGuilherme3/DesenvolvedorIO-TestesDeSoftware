@@ -1,6 +1,6 @@
 ﻿using Features.Clientes;
 
-namespace Features.Tests._01___Traits;
+namespace Features.Tests;
 
 public class ClienteTests
 {
