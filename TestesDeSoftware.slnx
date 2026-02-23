@@ -4,4 +4,8 @@
     <Project Path="01 - Testes de Unidade/1.1 - Testes Basicos/Demo.Tests/Demo.Tests.csproj" Id="fc06356c-bccb-4762-b60d-3428521da59f" />
     <Project Path="01 - Testes de Unidade/1.1 - Testes Basicos/Demo/Demo.csproj" />
   </Folder>
+  <Folder Name="/01 - Testes de Unidade/2.2 - Features/">
+    <Project Path="01 - Testes de Unidade/2.2 - Features/Features.Tests/Features.Tests.csproj" Id="6e5be11c-e6d7-42fc-8937-7442ec2d62b6" />
+    <Project Path="01 - Testes de Unidade/2.2 - Features/Features/Features.csproj" Id="ed70ee87-6740-40bb-a2df-b7a4009157dc" />
+  </Folder>
 </Solution>
