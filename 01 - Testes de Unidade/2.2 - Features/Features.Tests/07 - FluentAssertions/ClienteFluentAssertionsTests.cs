@@ -53,7 +53,7 @@ public class ClienteFluentAssertionsTests
 
         // Assert 
         result.Should().BeFalse();
-        cliente.ValidationResult.Errors.Should().HaveCountGreaterOrEqualTo(1, "deve possuir erros de validação");
+        cliente.ValidationResult.Errors.Should().HaveCountGreaterThanOrEqualTo(1, "deve possuir erros de validação");
 
         _outputHelper.WriteLine($"Foram encontrados {cliente.ValidationResult.Errors.Count} erros nesta validação");
     }
